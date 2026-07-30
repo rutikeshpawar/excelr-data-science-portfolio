@@ -1,0 +1,20 @@
+SESSION 1 - BASICS PY
+SESSION 2 - PY FOR DS
+SESSION 3 - LIBRARIES - PANDAS, MATPLOTLIB, SEABORN
+CORRELATION
+NULL VALUES
+
+
+SESSION 4 - INTRO TO MACHIN LEANRING 
+SUPERVISED ---> Regression & Classification 
+
+
+1. Linear Regression
+2. Logistic Regression
+3. KNN ( K - Nearest Neighbour)
+4. Decision Trees 
+5. Ensemble Modelling ( Bagging & Boosting)
+
+
+UNSUPERVISED
+REINFORCEMENT
