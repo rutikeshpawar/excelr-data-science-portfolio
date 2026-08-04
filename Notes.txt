@@ -1,4 +1,4 @@
-SESSION 1 - BASICS PY
+SESSION 1 - BASICS OF PY
 SESSION 2 - PY FOR DS
 SESSION 3 - LIBRARIES - PANDAS, MATPLOTLIB, SEABORN
 CORRELATION
@@ -7,7 +7,6 @@ NULL VALUES
 
 SESSION 4 - INTRO TO MACHIN LEANRING 
 SUPERVISED ---> Regression & Classification 
-
 
 1. Linear Regression
 2. Logistic Regression
@@ -18,3 +17,17 @@ SUPERVISED ---> Regression & Classification
 
 UNSUPERVISED
 REINFORCEMENT
+
+
+____STEPS____
+1. Get the Data
+2. Read the Data
+3. Preprocess the data
+4. Train test split the data
+5. Train the Model
+6. Test the Model
+7. Finetune the Model
+8. Save the Model
+__________________________________________________
+Front-End Application
+Deploy
