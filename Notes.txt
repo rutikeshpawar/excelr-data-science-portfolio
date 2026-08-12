@@ -19,15 +19,87 @@ UNSUPERVISED
 REINFORCEMENT
 
 
-____STEPS____
-1. Get the Data
-2. Read the Data
-3. Preprocess the data
-4. Train test split the data
-5. Train the Model
-6. Test the Model
-7. Finetune the Model
-8. Save the Model
-__________________________________________________
-Front-End Application
-Deploy
+1.  Machine Learning Pipeline
+    ____STEPS____
+        1. Get the Data and Read the Data
+        2. Preprocessing the data
+        3. Train test split the data - X & Y split
+        4. Apply Algorithm - Train the Model
+        5. Test the Model
+        6. Finetune the Model
+        7. Save the Model
+    __________________________________________________
+2.  Application-->
+         Backend API ---> fastapi, flask
+         Front-End Application ---> streamlit, gradio 
+3.  Deployment
+
+Streamlit - Anaconda Prompt - Cd filelocation
+                              streamlit run filename.PY
+
+
+SESSION 5 - LINEAR REGRESSION - 
+            Linear Regression Equation(Best Fit Line) - y = b0 + b1x2 + b2x2 + ... + bnxn
+
+        Linear Regression Explainantion on Interview Purposed -->>
+        1. Supervised ML Algorithm
+        2. It is used for Regression
+        3. Formula for best fit line - Explain the Formula
+        4. Used When - WIth Example
+
+Lable Encoding - Label encoding changes text data into numbers. 
+It gives each unique word a different integer value so a machine learning model can read it.
+How It WorksText labels like "red", "blue", and "green" become numbers like 0, 1, and 2.
+This helps algorithms process data that used to be only words
+
+SESSION 6 - 
+Work on - adult.csv
+Logistic Model Train Using adult.csv 
+Also Learn How to Imporve the accuracy for Logistic Model
+Learn Comfusion Matrix
+
+SESSION 7 -
+WORK on - Fish_dataset.csv
+KNN MODEL TRAIN USING FISH_DATASET AND STORE AS 6_KNN_Fish_Dataset.csv
+
+SESSION 8 - 
+python: 
+streamlit - To create a webpage using python
+App - 
+
+Frontend - 
+
+Backend -  [flastapi, flask, django]
+
+// What you will be work on backend or train the datas
+/user-message
+question ---> answer
+
+{
+    "question" : "Hi"
+}
+
+answer :
+{
+    "answer" : "hello"
+}
+
+/predict-sales
+input ---> parameter
+
+{
+    "parameters" : [
+        {
+            "TV" : 201
+            "radio" : 40
+            "newspaper" : 12
+        }
+    ]
+}
+
+answer : 
+{
+    "sales" : 100
+}
+
+SESSION - 9: MODEL TUNING

@@ -1,0 +1,16 @@
+| Column                             | Description                                                                       | Type        |       
+| ---------------------------------- | --------------------------------------------------------------------------------- | ----------- |
+| person_age                        | Represents the age of the person.                                                 | Float       |       
+| person_gender                     | Represents the gender of the person.                                              | Categorical |       
+| person_education                  | Represents the highest level of education attained by the person.                 | Categorical |       
+| person_income                     | Represents the person's annual income.                                            | Float       |       
+| person_emp_exp                    | Represents the number of years of employment experience the person has.           | Integer     |       
+| person_home_ownership             | Represents the person's home ownership status, such as rent, own, or mortgage.    | Categorical |       
+| loan_amnt                         | Represents the amount of money requested as a loan.                               | Float       |       
+| loan_intent                       | Represents the purpose for which the loan is requested.                           | Categorical |       
+| loan_int_rate                     | Represents the interest rate applied to the loan.                                 | Float       |       
+| loan_percent_income               | Represents the loan amount as a percentage of the person's annual income.         | Float       |       
+| cb_person_cred_hist_length        | Represents the length of the person's credit history in years.                    | Float       |       
+| credit_score                      | Represents the person's credit score.                                             | Integer     |       
+| previous_loan_defaults_on_file    | Indicates whether the person has any previous loan defaults on record.            | Categorical |      
+| loan_status                       | Represents the loan approval status, where 1 = Approved and 0 = Rejected.         | Integer     |
